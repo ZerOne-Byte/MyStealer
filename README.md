@@ -3,10 +3,10 @@
 
 # Get Start
 * 1 : Create a bot:
-```
+
 Just talk to [BotFather](https://t.me/botfather) and follow a few simple steps.
 Once you've created a bot and received your authorization token
-```
+
 * 2 : Installation from source (requires git):
 ```
 $ git clone https://github.com/ZerOneBite/MyStealer.git
