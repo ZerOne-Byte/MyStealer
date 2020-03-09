@@ -18,5 +18,5 @@ $ python MyStealer.py
 In Line 24 Enter Your Token Bot
 In Line 25 Enter Your Chat ID
 ```
-
+# Screenshot:
 ![alt tag](https://raw.githubusercontent.com/ZerOneBite/MyStealer/master/Image.PNG)
