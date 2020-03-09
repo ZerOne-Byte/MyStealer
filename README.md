@@ -1,7 +1,7 @@
-#<p align="center">MyStealer
+# <p align="center">MyStealer
 <p align="center">Stealing System Information ,wifi ssid and password 
 
-#Get Start
+# Get Start
 * 1 : Create a bot:
 ```
 Just talk to [BotFather](https://t.me/botfather) and follow a few simple steps.
