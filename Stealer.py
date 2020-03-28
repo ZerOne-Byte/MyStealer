@@ -23,7 +23,10 @@ banner = '''
                                                           
 
 .================================================.
-\033[1;36;40mcontact with me in Telegram,Instagram,Github : ZerOneBite
+\033[1;36;40mcontact with me 
+Telegram : @ZerOneByte
+Instagram: @ZerOne.Byte
+Github:@ZerOne-Byte
 '''
 print(banner)
 #--------- TELEGRAM BOT ----------
